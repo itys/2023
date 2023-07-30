@@ -1,5 +1,7 @@
 # <a rel="me" href="https://social.treehouse.systems/@mj">MJ Harmon</a>
 
+[The Bank Job: Part 1](1_the_bank_job_pt1.md)
+
 [The Bank Job: Part 2](2_the_bank_job_pt2.md)
 
 [The Bank Job: Part 3](3_the_bank_job_pt3.md)   
