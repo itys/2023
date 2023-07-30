@@ -1,4 +1,4 @@
-A Study in Magenta
+# A Study in Magenta
 
 The day started like any other one; rolling over and falling out of bed, hitting my head on the nightstand as I did so. This has happened more times than I would like to admit. However this time it was accompanied by a small voice coming from a little flat box seemingly asking “Hello? Are you there?” to which I snapped into Incident Response mode and answered “Yes, how may I help you?” while grabbing a pen and paper as a headache started to creep in.
 

@@ -1,4 +1,5 @@
-The Bank Job: Part 1
+# The Bank Job
+## Part 1
 
 I'm reminded of The Bank Job because of the weather. The snow was whipping, a blizzard was on its way, and the wind couldn't decide which way to go. We had been given two days to compromise four sites, and my Man in the Van chose to try and outrun the blizzard. Unfortunately, he timed it incorrectly, and the mountain range pushed it back onto him; it was a giant storm cell.
 

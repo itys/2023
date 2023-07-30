@@ -1,6 +1,6 @@
-Day 2
+# Day 2
 
-The fourth site was forewarned.
+## The fourth site was forewarned.
 
 This was okay, as I was supposed to get caught; this wasn't intended to be a successful engagement but instead a test of their emergency/crisis response system that everyone had just been trained in.
 

@@ -1,4 +1,5 @@
-ᴙoᴙᴙim | mirror: Part One
+# ᴙoᴙᴙim | mirror 
+## Part One
 
 Few things are as scary as data loss due to encryption failure within the information security realm. So frequently, we plan for it, test it, use it, and eventually, bitrot sets in, and it fails. This is why your RAID needs constantly rotating disks, especially when a checksum failure or S.M.A.R.T. error pops up.
 

@@ -1,4 +1,5 @@
-The Bank Job: Part 2
+# The Bank Job
+## Part 2
 
 After planting the call home box, which is a dumbed-down way of saying an IP over DNS with an overlayed tinc VPN that we made bespoke for this client because they claimed everything was locked down and we needed a backup, which became our primary because why not? We contemplated poking a NAT hole in the network, and we could make a higher quality tunnel, but this worked for what we needed, which was a latency-tolerant call home that asked for a package to run, which started the high latency error prone (yes, we eventually used par2) delivery of instructions.
 
